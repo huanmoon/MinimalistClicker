@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinimalistClicker">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinimalistClicker</output-path>
+    <root id="archive" name="MinimalistClicker.jar">
+      <element id="module-output" name="MinimalistClicker" />
+      <element id="library" level="project" name="spigot-1.8.8-R0.1-SNAPSHOT-latest" />
+    </root>
+  </artifact>
+</component>

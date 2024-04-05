@@ -1,0 +1,5 @@
+plain_clicker:
+  world: "plain"
+  x: 0
+  y: 60
+  z: 8
